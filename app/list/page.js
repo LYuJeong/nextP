@@ -1,7 +1,6 @@
 
 
 export default function List() {
-
   return (
     <div>
       <h2 className="title">상품목록</h2>
